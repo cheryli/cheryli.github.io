@@ -40,4 +40,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 It's a very delisious fruit.
 
-哈哈哈
+Dark light, just light each other. The responsibility that you and my shoulders take together, such as one dust covers up. Only afraid the light suddenly put out in theendless dark night and countless loneliness.
