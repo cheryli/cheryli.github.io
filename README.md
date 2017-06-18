@@ -50,3 +50,7 @@ I get 10 times more traffic from [Google] [1] than from
   [1]: http://google.com/        "Google"
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
+  
+You can get [巨人的陨落] [] from here.
+
+  [巨人的陨落]: file:///D:/111.mobi
