@@ -43,3 +43,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 It's a very delisious fruit.
 
 Dark light, just light each other. The responsibility that you and my shoulders take together, such as one dust covers up. Only afraid the light suddenly put out in theendless dark night and countless loneliness.
+
+I get 10 times more traffic from [Google] [1] than from
+[Yahoo] [2] or [MSN] [3].
+
+  [1]: http://google.com/        "Google"
+  [2]: http://search.yahoo.com/  "Yahoo Search"
+  [3]: http://search.msn.com/    "MSN Search"
